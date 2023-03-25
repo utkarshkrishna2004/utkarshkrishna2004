@@ -1,6 +1,12 @@
 ## Hey there! I'm **Utkarsh Krishna⚡**.
 ![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/utkarsh-krishna-3bab41240" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://twitter.com/utkarshktweets" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+</p>
+
 I'm a freshman in college with a passion for **Open Source** and **Full-Stack Web Development**. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
 
 I love learning new programming languages, frameworks, and tools to develop efficient and user-friendly full-stack web applications. I enjoy the challenge of problem-solving and have a keen eye for detail.
