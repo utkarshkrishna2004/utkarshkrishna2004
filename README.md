@@ -1,4 +1,5 @@
 ## Hey there! I'm **Utkarsh Krishna⚡**.
+![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
 
 I'm a freshman in college with a passion for **Open Source** and **Full-Stack Web Development**. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
 
