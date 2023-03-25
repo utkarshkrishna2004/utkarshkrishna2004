@@ -12,7 +12,7 @@ In my free time, I enjoy attending tech conferences, reading about technology, a
 I'm confident that my passion, dedication, and willingness to learn will take me far in the world of tech. I can't wait to see what the future holds for me!
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=utkarshkrishna2004&show_icons=true&theme=radical" 
+   src="https://github-readme-stats.vercel.app/api?username=utkarshkrishna2004&show_icons=true&theme=dracula" 
 />
 
 
