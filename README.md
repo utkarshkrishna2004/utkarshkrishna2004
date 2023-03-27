@@ -29,7 +29,16 @@ In my free time, I enjoy attending tech conferences, reading about technology, a
 
 I'm confident that my passion, dedication, and willingness to learn will take me far in the world of tech. I can't wait to see what the future holds for me!
 
-### :fire: My Stats :
+### 🛠️ Tools and Technologies 🌐:
+ <p align="center">
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=HTML5&color=493252&style=flat-square&logo=html5"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=CSS3&color=493252&logoColor=blue&style=flat-square&logo=css3"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=VS CODE&color=493252&logoColor=blue&style=flat-square&logo=visual studio code"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=GIT&color=493252&style=flat-square&logo=git"/>
+        <img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=GITHUB&color=493252&style=flat-square&logo=github"/>
+    </p>
+    
+### 🚀 My Stats 📈:
 
 <table cellpadding="0">
   <tr style="padding: 0">
