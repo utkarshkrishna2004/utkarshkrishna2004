@@ -1,11 +1,23 @@
 ## Hey there! I'm **Utkarsh Krishna⚡**.
 ![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
 
-<p align="center">
- <a href="https://www.linkedin.com/in/utkarsh-krishna-3bab41240" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=LINKEDIN&color=493252&style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/utkarshktweets" target="blank"><img src="https://img.shields.io/static/v1?label=|&labelColor=493252&message=TWITTER&color=493252&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-</p>
+### :man_technologist: Find me here! :
+<div id="badges" align = "center">
+  
+  <a href="https://twitter.com/utkarshktweets">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://hashnode.com/@utkarshkrishna">
+    <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
+  </a>
+ 
+ <a href="https://www.linkedin.com/in/utkarsh-krishna-3bab41240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 I'm a freshman in college with a passion for **Open Source** and **Full-Stack Web Development**. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
 
