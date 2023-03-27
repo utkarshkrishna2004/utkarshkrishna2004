@@ -1,4 +1,4 @@
-## Hey there! I'm **Utkarsh Krishna⚡**.
+## Hey there! I'm **Utkarsh⚡**.
 ![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
 
 ### :man_technologist: Find me here! :
