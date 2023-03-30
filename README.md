@@ -1,5 +1,6 @@
 ## Hey there! I'm Utkarsh⚡.
 ![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkrishna2004&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshkrishna2004" /> </p> 
 
 ### :man_technologist: Find me here! :
 <div id="badges" align = "center">
@@ -44,8 +45,8 @@ I'm confident that my passion, dedication, and willingness to learn will take me
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshkrishna2004&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshkrishna2004&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
