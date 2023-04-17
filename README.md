@@ -1,6 +1,9 @@
 ## Hey there! I'm Utkarsh⚡.
 ![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshkrishna2004&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshkrishna2004"/></p> 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/utkarshkrishna2004/count.svg" />
+</p>
 
 ### :man_technologist: Find me here! :
 <div id="badges" align = "center">
