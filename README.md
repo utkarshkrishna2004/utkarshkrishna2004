@@ -34,7 +34,7 @@ In my free time, I enjoy attending tech conferences, reading about technology, a
 I'm confident that my passion, dedication, and willingness to learn will take me far in the world of tech. I can't wait to see what the future holds for me!
 
 ### Tools and Technologies ⚒️:
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,c,java,vscode,git,github,idea)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,c,git,github,java,idea)
     
 ### My Stats 🚀:
 
