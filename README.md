@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://hashnode.com/@utkarshkrishna">
+  <a href="https://utkarshkrishna.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-grey?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
   </a>
  
