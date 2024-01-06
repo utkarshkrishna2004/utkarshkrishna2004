@@ -1,5 +1,5 @@
 ## Hey there! I'm Utkarsh⚡.
-![Utkarsh Krishna](https://github.com/utkarshkrishna2004/utkarshkrishna2004/blob/main/github_header_image.png)
+![Utkarsh Krishna](https://res.cloudinary.com/dt686xyud/image/upload/v1704576180/20240105_050549_0000_yldkrx.png)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/utkarshkrishna2004/count.svg" />
