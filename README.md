@@ -40,7 +40,7 @@ Thanks for stopping by!
 <table cellpadding="0" >
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshkrishna2004&show_icons=true&theme=highcontrast"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshkrishna2004&show_icons=true&rank_icon=github&theme=highcontrast"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkrishna2004&layout=compact&theme=highcontrast&custom_title=Languages"/></td>
   </tr>
