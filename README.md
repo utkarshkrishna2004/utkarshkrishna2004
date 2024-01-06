@@ -35,9 +35,9 @@ Thanks for stopping by!
     
 ### My Stats 🚀:
 
-<img style="width: 90%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarshkrishna&layout=compact&theme=highcontrast" alt="Wakatime Stats"/>
+<img style="width: 87%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarshkrishna&layout=compact&theme=highcontrast" alt="Wakatime Stats"/>
 
-<table cellpadding="0">
+<table cellpadding="0" >
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=utkarshkrishna2004&show_icons=true&theme=highcontrast"/></td>
