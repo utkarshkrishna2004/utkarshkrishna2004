@@ -23,18 +23,15 @@
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-I'm a freshman in college with a passion for **Open Source** and **Full-Stack Web Development**. I'm always on the lookout for ways to contribute to open source communities and projects, and I'm determined to become a skilled and influential developer.
+Hello, I'm Utkarsh Krishna, a MERN stack developer and sophomore at Netaji Subhash Engineering College. Specializing in full-stack technologies, I excel in MongoDB, Express.js, React, and Node.js. My expertise extends to crafting robust server-side applications, designing efficient databases and user friendly frontend interfaces.
 
-I love learning new programming languages, frameworks, and tools to develop efficient and user-friendly full-stack web applications. I enjoy the challenge of problem-solving and have a keen eye for detail.
+With a solid foundation in JavaScript, TypeScript and Java, I'm well-equipped to tackle diverse coding challenges. My mission is to seize promising opportunities in the tech industry and contribute value through full-stack web development.
 
-One thing that sets me apart is my enthusiasm for helping others. I believe that collaboration is key to success, and I'm always eager to share my knowledge and lend a hand to others in the tech community.
-
-In my free time, I enjoy attending tech conferences, reading about technology, and experimenting with new projects. I believe that technology has the power to change the world for the better, and I'm excited to be a part of that change.
-
-I'm confident that my passion, dedication, and willingness to learn will take me far in the world of tech. I can't wait to see what the future holds for me!
+I'm actively seeking collaborations on projects that demand backend prowess and user friendly interfaces. If you're looking for a dedicated and skilled full-stack developer, feel free to reach out. Let's create something extraordinary together. 
+Thanks for stopping by!
 
 ### Tools and Technologies ⚒️:
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode,c,git,github,java,idea)
+![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,express,nextjs,javascript,typescript,appwrite,tailwind,c,java,html,css,git,github,vscode,postman)
     
 ### My Stats 🚀:
 
