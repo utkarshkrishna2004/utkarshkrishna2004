@@ -1,9 +1,6 @@
 
 ![Utkarsh Krishna](https://res.cloudinary.com/dt686xyud/image/upload/v1704576180/20240105_050549_0000_yldkrx.png)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/utkarshkrishna2004/count.svg" />
-</p>
+
 
 ### :man_technologist: Find me here! :
 <div id="badges" align = "center">
