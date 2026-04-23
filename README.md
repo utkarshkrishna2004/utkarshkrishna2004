@@ -1,4 +1,4 @@
-## Hey there! I'm Utkarsh⚡.
+
 ![Utkarsh Krishna](https://res.cloudinary.com/dt686xyud/image/upload/v1704576180/20240105_050549_0000_yldkrx.png)
 <p align="center"> 
   Visitor count<br>
@@ -23,19 +23,21 @@
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-Hello, I'm Utkarsh Krishna, a MERN stack developer and sophomore at Netaji Subhash Engineering College. Specializing in full-stack technologies, I excel in MongoDB, Express.js, React, and Node.js. My expertise extends to crafting robust server-side applications, designing efficient databases and user friendly frontend interfaces.
+## Hey there! I'm Utkarsh ⚡
 
-With a solid foundation in JavaScript, TypeScript and Java, I'm well-equipped to tackle diverse coding challenges. My mission is to seize promising opportunities in the tech industry and contribute value through full-stack web development.
+I like building things that actually work in the real world — from full-stack apps to AI-powered features.
 
-I'm actively seeking collaborations on projects that demand backend prowess and user friendly interfaces. If you're looking for a dedicated and skilled full-stack developer, feel free to reach out. Let's create something extraordinary together. 
-Thanks for stopping by!
+Most of my work revolves around the MERN stack and Next.js, where I focus on clean backend logic, scalable systems, and smooth user experiences. Lately, I’ve been exploring GenAI and trying to integrate it into practical use-cases like media processing and code review.
 
-### Tools and Technologies ⚒️:
-![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,express,nextjs,javascript,typescript,appwrite,tailwind,c,java,html,css,git,github,vscode,postman)
+I enjoy figuring things out by building — whether it's APIs, databases, or experimenting with new tools.
+
+Always open to collaborating on interesting ideas 🚀
+
+
     
 ### My Stats 🚀:
 
-<img style="width: 87%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarshkrishna&layout=compact&theme=highcontrast" alt="Wakatime Stats"/>
+<!-- <img style="width: 87%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarshkrishna&layout=compact&theme=highcontrast" alt="Wakatime Stats"/> -->
 
 <table cellpadding="0" >
   <tr style="padding: 0">
